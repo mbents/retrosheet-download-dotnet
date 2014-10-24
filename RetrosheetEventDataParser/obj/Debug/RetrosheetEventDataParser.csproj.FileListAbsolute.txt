@@ -4,3 +4,9 @@ c:\Users\Mike\Documents\Visual Studio 2012\Projects\RetrosheetEventDataParser\Re
 c:\Users\Mike\Documents\Visual Studio 2012\Projects\RetrosheetEventDataParser\RetrosheetEventDataParser\obj\Debug\RetrosheetEventDataParser.csprojResolveAssemblyReference.cache
 c:\Users\Mike\Documents\Visual Studio 2012\Projects\RetrosheetEventDataParser\RetrosheetEventDataParser\obj\Debug\RetrosheetEventDataParser.exe
 c:\Users\Mike\Documents\Visual Studio 2012\Projects\RetrosheetEventDataParser\RetrosheetEventDataParser\obj\Debug\RetrosheetEventDataParser.pdb
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\RetrosheetEventDataParser\retrosheet-download-dotnet\RetrosheetEventDataParser\bin\Debug\RetrosheetEventDataParser.exe.config
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\RetrosheetEventDataParser\retrosheet-download-dotnet\RetrosheetEventDataParser\obj\Debug\RetrosheetEventDataParser.exe
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\RetrosheetEventDataParser\retrosheet-download-dotnet\RetrosheetEventDataParser\obj\Debug\RetrosheetEventDataParser.pdb
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\RetrosheetEventDataParser\retrosheet-download-dotnet\RetrosheetEventDataParser\bin\Debug\RetrosheetEventDataParser.exe
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\RetrosheetEventDataParser\retrosheet-download-dotnet\RetrosheetEventDataParser\bin\Debug\RetrosheetEventDataParser.pdb
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\RetrosheetEventDataParser\retrosheet-download-dotnet\RetrosheetEventDataParser\obj\Debug\RetrosheetEventDataParser.csprojResolveAssemblyReference.cache
