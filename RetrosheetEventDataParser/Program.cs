@@ -80,7 +80,9 @@ namespace RetrosheetEventDataParser
                     Task.WaitAll(taskList.ToArray());
 
                 Console.WriteLine("============================================");
-                Console.WriteLine(string.Format("Finished downloading files and parsing data in {0}", (DateTime.Now - start)));
+                Console.WriteLine(string.Format("Finished {0}parsing data in {1}", 
+                    DownloadEventFiles ? "downloading files and " : "",
+                    (DateTime.Now - start)));
             }
 
             Console.WriteLine("Press enter to close...");
