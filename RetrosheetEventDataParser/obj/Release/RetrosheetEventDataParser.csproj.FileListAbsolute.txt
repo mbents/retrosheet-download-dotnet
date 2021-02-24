@@ -1,6 +1,0 @@
-c:\Users\Mike\Documents\Visual Studio 2012\Projects\RetrosheetEventDataParser\RetrosheetEventDataParser\bin\Release\RetrosheetEventDataParser.exe.config
-c:\Users\Mike\Documents\Visual Studio 2012\Projects\RetrosheetEventDataParser\RetrosheetEventDataParser\bin\Release\RetrosheetEventDataParser.exe
-c:\Users\Mike\Documents\Visual Studio 2012\Projects\RetrosheetEventDataParser\RetrosheetEventDataParser\bin\Release\RetrosheetEventDataParser.pdb
-c:\Users\Mike\Documents\Visual Studio 2012\Projects\RetrosheetEventDataParser\RetrosheetEventDataParser\obj\Release\RetrosheetEventDataParser.csprojResolveAssemblyReference.cache
-c:\Users\Mike\Documents\Visual Studio 2012\Projects\RetrosheetEventDataParser\RetrosheetEventDataParser\obj\Release\RetrosheetEventDataParser.exe
-c:\Users\Mike\Documents\Visual Studio 2012\Projects\RetrosheetEventDataParser\RetrosheetEventDataParser\obj\Release\RetrosheetEventDataParser.pdb
